@@ -1,26 +1,9 @@
-.fish {
-    max-width: 300px;
-    height: auto;
-    justify-content: center;
-    text-align: center;
-
+main {
+    display: flex;
+    flex-direction: row;
 }
 
-.fishPicture {
-    width: 80%;
-    height: 50%;
-}
-
-.tips {
-    position: absolute;
-    top: 350px;
-    left: 650px;
-}
-
-.tip {
-    margin: 10px;
-}
-
-.location {
-    margin: 10px;
+img {
+    height: 250px;
+    width: 250px;
 }
